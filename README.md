@@ -8,6 +8,6 @@ sqrt (square root), aass the same functionality with Math class in JDK
 * A CI (Continous integration) script to demonstrate CI technique using GitHub Actions
 * ...
 
-### Connect me via: hoang.nguyenthe@gmail.com
+### Connect me via: tr4nthimyhanh264@gmail.com
 
-#### &#169; 2025 giáo.làng
+#### &#169; 2025 hh
