@@ -8,6 +8,15 @@ sqrt (square root), aass the same functionality with Math class in JDK
 * A CI (Continous integration) script to demonstrate CI technique using GitHub Actions
 * ...
 
+## Screen-shots
+
+### TDD, DDT test script with JUnit 
+![TDD, DDT test script](https://github.com/MyHanh264/mathutil/blob/main/screenshots/JUnit%20with%20TDD%20DDT.png)
+
+
+### Maven builder to build .jar file
+![Maven builder](https://github.com/MyHanh264/mathutil/blob/main/screenshots/Maven%20Builder.png)
+
 ### Connect me via: tr4nthimyhanh264@gmail.com
 
 #### &#169; 2025 hh
